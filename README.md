@@ -3,7 +3,7 @@
 Excited to share my first Power BI project with all of you! 📊🚀
 I've been diving into the world of data visualization, and I'm thrilled to showcase my latest Project 🌟
 
-➡ **Project Title** - Software Professional Salaries Dashboard using Power Bl
+➡ **Project Title** - **Software Professional Salaries Dashboard using Power BI**
 
 In this project, I used Software Professional Salaries Dataset 2022 which is available on 'kaggle.com'.
 
