@@ -19,7 +19,7 @@ In this project, I used Software Professional Salaries Dataset 2022 which is ava
 
 ➡ **The project followed the following procedure**:
 
-1. Data Extraction: Data has extracted from "https://www.kaggle.com”
+1. Data Extraction: Data has extracted from "kaggle.com”.
 2. Data Analysis: The data was analyzed using Microsoft Excel (Tools- Pivot Table, Filter, Slicer etc. )
 3.Data Cleaning & Transformation: The data was loaded into Microsoft Power BI Server. Data cleaned by removing null and duplicate values, correcting spelling errors, and adjusting data types.
 4. Data Loading: The transformed data was loaded into ‘Power Query Editor’ for further analysis.
