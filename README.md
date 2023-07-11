@@ -5,7 +5,7 @@ I've been diving into the world of data visualization, and I'm thrilled to showc
 
 ➡ **Project Title** - **Software Professional Salaries Dashboard using Power BI**
 
-In this project, I used Software Professional Salaries Dataset 2022 which is available on '[kaggle.com](https://www.kaggle.com/)'.
+In this project, I used Software Professional Salaries Dataset 2022 which is available on '[[kaggle.com](https://www.kaggle.com/)](https://www.kaggle.com/datasets)'.
 
 ➡ **Objective**- The objective was to showcase the ability to clean and structure data, create dynamic visualizations, and provide users with interactive tools to explore and analyze the data effectively.
 
